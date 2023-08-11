@@ -1,11 +1,11 @@
 ## Projeto Modelo para Atividade Java X GitHub
 
-Sejam bem-vindos ao projeto.
+Bem vindo ao projeto!
 
 ## Enunciado
 
 Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
-C = 5 * ((F-32) / 9).
+"C = 5 * ((F-32) / 9)".
 
 ## Dependency Management
 
